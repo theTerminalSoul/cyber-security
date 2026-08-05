@@ -2,5 +2,9 @@
   "defaultViewMode": "source",
   "readableLineLength": false,
   "showLineNumber": false,
-  "vimMode": true
+  "vimMode": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Networking/pages",
+  "attachmentFolderPath": "Networking/attachment",
+  "promptDelete": false
 }

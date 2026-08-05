@@ -20,8 +20,61 @@
               "icon": "lucide-file",
               "title": "What is Network"
             }
+          },
+          {
+            "id": "d4fbce2dee5ea596",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/What is Network.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What is Network"
+            }
+          },
+          {
+            "id": "e09a592e96f762f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/pages/Physical Topology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Physical Topology"
+            }
+          },
+          {
+            "id": "49169728e25063d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/pages/Network Models.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Network Models"
+            }
+          },
+          {
+            "id": "be096f04a96633dc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -183,7 +236,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,9 +251,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2266aa0d3fd7d82",
+  "active": "be096f04a96633dc",
   "lastOpenFiles": [
     "Networking/What is Network.md",
+    "Networking/pages/Traffic Flow.md",
+    "Networking/attachment/Pasted image 20260805220028.png",
+    "Networking/pages/Network Models.md",
+    "Networking/attachment/Pasted image 20260805213208.png",
+    "Networking/attachment/Pasted image 20260805210834.png",
+    "Networking/attachment/Pasted image 20260805210825.png",
+    "Networking/pages/Physical Topology.md",
+    "Networking/attachment/Pasted image 20260805203619.png",
+    "Networking/attachment/Pasted image 20260805203204.png",
+    "Networking/attachment/Pasted image 20260805202636.png",
+    "Networking/attachment/Pasted image 20260805202041.png",
+    "Networking/attachment/Pasted image 20260804214004.png",
+    "Networking/pages/Type of Networks.md",
+    "Networking/attachment/Pasted image 20260804211718.png",
+    "Networking/attachment",
+    "Networking/pages",
     "Networking"
   ]
 }
