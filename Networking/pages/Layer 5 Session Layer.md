@@ -7,3 +7,6 @@
     - **Simplex:** One-direction communication only.
     - **Half-Duplex:** Two-way communication, but only one direction at a time.
     - **Full-Duplex:** Simultaneous two-way communication.
+
+
+![[Pasted image 20260808162825.png]]

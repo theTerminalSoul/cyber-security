@@ -6,5 +6,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Networking/pages",
   "attachmentFolderPath": "Networking/attachment",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
