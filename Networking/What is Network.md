@@ -8,4 +8,5 @@ Network Is the connecting the system to each other so they can share the data an
 #### [[Type of Networks]]
 #### [[Physical Topology]]
 #### [[OSI Model]]
+#### [[Internet Protocal]]
 

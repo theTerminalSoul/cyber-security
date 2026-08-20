@@ -64,77 +64,21 @@
             }
           },
           {
-            "id": "be096f04a96633dc",
+            "id": "8299a022e21be783",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/What is Network.md",
+                "file": "Networking/pages/Internet Protocal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is Network"
-            }
-          },
-          {
-            "id": "acdaaafe071d6e1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/pages/OSI Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OSI Model"
-            }
-          },
-          {
-            "id": "e7513ac596cd9f57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/pages/Layer 1 Physical Layer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Layer 1 Physical Layer"
-            }
-          },
-          {
-            "id": "486fbee35cefaf18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/pages/Layer 2 Data Link Layer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Layer 2 Data Link Layer"
-            }
-          },
-          {
-            "id": "807c8f21afcd0edc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/pages/Layer 3 Network Layer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Layer 3 Network Layer"
+              "title": "Internet Protocal"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -196,7 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.99609375
+    "width": 386.0865898132324
   },
   "right": {
     "id": "2db9bd2f488d5652",
@@ -296,7 +240,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 364.6478271484375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -311,8 +255,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7513ac596cd9f57",
+  "active": "8299a022e21be783",
   "lastOpenFiles": [
+    "Networking/attachment/Pasted image 20260820203346.png",
+    "Networking/pages/Internet Protocal.md",
+    "Networking/What is Network.md",
     "Networking/pages/Layer 1 Physical Layer.md",
     "Networking/pages/OSI Model.md",
     "Networking/pages/Layer 2 Data Link Layer.md",
@@ -326,7 +273,6 @@
     "Networking/attachment/Pasted image 20260808201053.png",
     "Networking/attachment/Pasted image 20260808175056.png",
     "Networking/attachment/Pasted image 20260808175029.png",
-    "Networking/What is Network.md",
     "Networking/pages/Layer 5 Session Layer.md",
     "Networking/attachment/Pasted image 20260808162825.png",
     "Networking/pages/Layer 6 Presentation Layer.md",
