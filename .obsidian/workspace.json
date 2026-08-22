@@ -55,12 +55,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/pages/Network Models.md",
+                "file": "Networking/What is Network.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network Models"
+              "title": "What is Network"
+            }
+          },
+          {
+            "id": "fdb4ebc19bc85ece",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -69,12 +79,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/pages/Internet Protocal.md",
+                "file": "Networking/pages/Interner Layer Protocol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Internet Protocal"
+              "title": "Interner Layer Protocol"
+            }
+          },
+          {
+            "id": "7a63e1e1b2ca9c27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/pages/Host to Host layer protocol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Host to Host layer protocol"
+            }
+          },
+          {
+            "id": "9c7b5cfa4898c204",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/pages/Application Layer Protocols.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Application Layer Protocols"
             }
           }
         ],
@@ -140,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.0865898132324
+    "width": 200
   },
   "right": {
     "id": "2db9bd2f488d5652",
@@ -240,7 +278,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.6478271484375
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,11 +293,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8299a022e21be783",
+  "active": "fdb4ebc19bc85ece",
   "lastOpenFiles": [
-    "Networking/attachment/Pasted image 20260820203346.png",
+    "Linux",
     "Networking/pages/Internet Protocal.md",
     "Networking/What is Network.md",
+    "Networking/pages/Application Layer Protocols.md",
+    "Networking/attachment/Pasted image 20260822205459.png",
+    "Networking/pages/Network Models.md",
+    "Networking/pages/Host to Host layer protocol.md",
+    "Networking/pages/Interner Layer Protocol.md",
+    "Networking/attachment/Pasted image 20260822175929.png",
+    "Networking/attachment/Pasted image 20260822174510.png",
+    "Networking/attachment/Pasted image 20260822173907.png",
+    "Networking/attachment/Pasted image 20260822170322.png",
+    "Networking/attachment/Pasted image 20260822165636.png",
+    "Networking/attachment/Pasted image 20260822164725.png",
+    "The Process",
+    "Networking/attachment/Pasted image 20260820203346.png",
     "Networking/pages/Layer 1 Physical Layer.md",
     "Networking/pages/OSI Model.md",
     "Networking/pages/Layer 2 Data Link Layer.md",
@@ -267,20 +318,11 @@
     "Networking/pages/Layer 3 Network Layer.md",
     "Networking/attachment/Pasted image 20260808233219.png",
     "Networking/pages/Layer 4 Transport Layer.md",
-    "Networking/attachment/Pasted image 20260808211009.png",
-    "Networking/attachment/Pasted image 20260808210104.png",
-    "Networking/attachment/Pasted image 20260808201114.png",
-    "Networking/attachment/Pasted image 20260808201053.png",
-    "Networking/attachment/Pasted image 20260808175056.png",
-    "Networking/attachment/Pasted image 20260808175029.png",
     "Networking/pages/Layer 5 Session Layer.md",
-    "Networking/attachment/Pasted image 20260808162825.png",
     "Networking/pages/Layer 6 Presentation Layer.md",
     "Networking/pages/Layer 7 Application Layer.md",
-    "Networking/attachment/Pasted image 20260806235535.png",
     "Networking/pages/Physical Layer.md",
     "Networking/pages/Traffic Flow.md",
-    "Networking/pages/Network Models.md",
     "Networking/pages/Physical Topology.md",
     "Networking/pages/Type of Networks.md",
     "Networking/attachment",
